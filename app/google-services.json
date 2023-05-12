@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788838106797",
+    "project_id": "geolili",
+    "storage_bucket": "geolili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788838106797:android:c88e35e506b82d4e1fa824",
+        "android_client_info": {
+          "package_name": "com.example.beaconstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788838106797-nqpd5k268h93188fjtb549bbvnqap9qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PgtOf5aiPU-BOfZmdfyZAKlR-N0AKKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788838106797-nqpd5k268h93188fjtb549bbvnqap9qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
